@@ -1,5 +1,4 @@
 <?php
-
 class php
 {
   function __construct()
