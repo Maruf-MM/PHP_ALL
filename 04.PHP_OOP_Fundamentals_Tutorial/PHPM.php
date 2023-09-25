@@ -1,5 +1,4 @@
 <?php 
-include "header.php";
 class PHPM
 {
   public function bengali()
@@ -19,5 +18,4 @@ class PHPM
     echo "I am learning science<br>";
   }
 }
-  include "footer.php";
   ?>

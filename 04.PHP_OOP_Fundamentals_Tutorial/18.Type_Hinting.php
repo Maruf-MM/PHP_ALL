@@ -22,9 +22,8 @@ spl_autoload_register(function($class_name)
 {
   include $class_name.".php";
 });
-$o= new PHPM;
-new PHPN($o);
-
+$phpm = new PHPM;
+new PHPN($phpm);
 
 include "footer.php";
 ?>

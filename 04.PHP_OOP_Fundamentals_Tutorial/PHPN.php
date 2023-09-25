@@ -1,11 +1,11 @@
 <?php
 class PHPN
 {
-  public $om;
-  function __construct(php $h)
+  public $fromphp;
+    function __construct(php $value)
   {
-    $this->om=$h;
-    $this->om->bengali();
+    $this->fromphp= $value;
+    $this->fromphp->bengali();
 
   }
 }
