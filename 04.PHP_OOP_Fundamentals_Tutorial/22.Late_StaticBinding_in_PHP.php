@@ -5,7 +5,7 @@ class php
   public static function framework()
   {
     echo "Cake PHP a framework";
-    echo "nice bro!";
+    echo "wow!";
   }
 }
 include "footer.php";
